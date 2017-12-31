@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514662717 source:d:\programiranje\c i c++\tutorijal serijska\main.c
+	"Serijska.c"
+
+1514662444 d:\programiranje\c i c++\tutorijal serijska\serijska.h
+	<stdio.h>
+	<string.h>
+
+1514663128 d:\programiranje\c i c++\tutorijal serijska\serijska.c
+	"Serijska.h"
+
